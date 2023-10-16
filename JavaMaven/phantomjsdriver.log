@@ -1,0 +1,40 @@
+[INFO  - 2023-08-14T14:23:53.630Z] GhostDriver - Main - running on port 39821
+[INFO  - 2023-08-14T14:23:54.227Z] Session [32923ff0-3aae-11ee-9291-45c00644773c] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2023-08-14T14:23:54.227Z] Session [32923ff0-3aae-11ee-9291-45c00644773c] - page.customHeaders:  - {}
+[INFO  - 2023-08-14T14:23:54.228Z] Session [32923ff0-3aae-11ee-9291-45c00644773c] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2023-08-14T14:23:54.228Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 32923ff0-3aae-11ee-9291-45c00644773c
+[ERROR - 2023-08-14T14:23:58.128Z] Session [32923ff0-3aae-11ee-9291-45c00644773c] - page.onError - msg: ReferenceError: Can't find variable: WeakSet
+[ERROR - 2023-08-14T14:23:58.128Z] Session [32923ff0-3aae-11ee-9291-45c00644773c] - page.onError - stack:
+  (anonymous function) (https://cdn-ima.33across.com/ob.js:2)
+  r (https://cdn-ima.33across.com/ob.js:2)
+  (anonymous function) (https://cdn-ima.33across.com/ob.js:2)
+  r (https://cdn-ima.33across.com/ob.js:2)
+  (anonymous function) (https://cdn-ima.33across.com/ob.js:2)
+  r (https://cdn-ima.33across.com/ob.js:2)
+  (anonymous function) (https://cdn-ima.33across.com/ob.js:2)
+  (anonymous function) (https://cdn-ima.33across.com/ob.js:2)
+[ERROR - 2023-08-14T14:23:58.483Z] Session [32923ff0-3aae-11ee-9291-45c00644773c] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'crypto.randomUUID()')
+[ERROR - 2023-08-14T14:23:58.483Z] Session [32923ff0-3aae-11ee-9291-45c00644773c] - page.onError - stack:
+  le (https://static.criteo.net/js/ld/publishertag.ids.js:1)
+  de (https://static.criteo.net/js/ld/publishertag.ids.js:1)
+  (anonymous function) (https://static.criteo.net/js/ld/publishertag.ids.js:1)
+[INFO  - 2023-08-14T14:24:05.729Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2023-08-14T14:29:53.963Z] GhostDriver - Main - running on port 32275
+[INFO  - 2023-08-14T14:29:54.416Z] Session [094293b0-3aaf-11ee-ace4-e5b83dcfe00b] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2023-08-14T14:29:54.416Z] Session [094293b0-3aaf-11ee-ace4-e5b83dcfe00b] - page.customHeaders:  - {}
+[INFO  - 2023-08-14T14:29:54.416Z] Session [094293b0-3aaf-11ee-ace4-e5b83dcfe00b] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2023-08-14T14:29:54.416Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 094293b0-3aaf-11ee-ace4-e5b83dcfe00b
+[INFO  - 2023-08-14T14:30:03.928Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2023-08-14T14:30:27.864Z] GhostDriver - Main - running on port 13715
+[INFO  - 2023-08-14T14:30:51.760Z] GhostDriver - Main - running on port 17917
+[INFO  - 2023-08-14T14:30:52.390Z] Session [2bd0b510-3aaf-11ee-b32d-338302cdeb51] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2023-08-14T14:30:52.390Z] Session [2bd0b510-3aaf-11ee-b32d-338302cdeb51] - page.customHeaders:  - {}
+[INFO  - 2023-08-14T14:30:52.390Z] Session [2bd0b510-3aaf-11ee-b32d-338302cdeb51] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2023-08-14T14:30:52.390Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 2bd0b510-3aaf-11ee-b32d-338302cdeb51
+[INFO  - 2023-08-14T14:31:01.479Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2023-08-14T21:39:34.291Z] GhostDriver - Main - running on port 29282
+[INFO  - 2023-08-14T21:39:34.717Z] Session [0f845380-3aeb-11ee-a17f-b73cec253e77] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2023-08-14T21:39:34.717Z] Session [0f845380-3aeb-11ee-a17f-b73cec253e77] - page.customHeaders:  - {}
+[INFO  - 2023-08-14T21:39:34.718Z] Session [0f845380-3aeb-11ee-a17f-b73cec253e77] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2023-08-14T21:39:34.718Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 0f845380-3aeb-11ee-a17f-b73cec253e77
+[INFO  - 2023-08-14T21:39:44.043Z] ShutdownReqHand - _handle - About to shutdown
